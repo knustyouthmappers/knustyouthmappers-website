@@ -1,4 +1,4 @@
 ---
-name: Wooly McBaa
-image: /images/wooly.jpg
+name: Samuel Darkwah Manu
+image: /images/DSC1891.jpg
 ---
